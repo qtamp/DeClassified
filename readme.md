@@ -1,3 +1,11 @@
+> **QTAMP showcase fork** — this is [qtamp](https://qtamp.org)'s fork of
+> [0x5066/DeClassified](https://github.com/0x5066/DeClassified) by Eris Lund (0x5066),
+> used to showcase [qtWasabi](https://github.com/qtWasabi/qtWasabi), the
+> open-source reimplementation of the Wasabi/Maki Modern skin engine.
+> Only user-visible branding strings were changed (titlebar/tooltips now
+> read QTAMP); all art, code, and credit belong to the upstream authors.
+> License: MIT, unchanged from upstream.
+
 # DeClassified
 
 This is the fourth incarnation of loading Classic Skin assets into the Modern Skin engine.
